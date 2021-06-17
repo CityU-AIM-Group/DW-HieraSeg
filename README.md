@@ -8,7 +8,7 @@ by [Xiaoqing Guo](https://guo-xiaoqing.github.io/).
 This repository is for our MedIA paper ["Dynamic-weighting Hierarchical Segmentation Network for Medical Images"]()
 
 ### Framework:
-![](https://github.com/CityU-AIM-Group/DW-HieraSeg/raw/master/Figs/network.png)
+![](https://github.com/CityU-AIM-Group/DW-HieraSeg/blob/main/Figs/network.png)
 
 ## Usage:
 ### Requirement:
