@@ -20,7 +20,10 @@ Clone the repository:
 ```
 git clone https://github.com/CityU-AIM-Group/DW-HieraSeg.git
 cd DW-HieraSeg 
-bash DW-HieraSeg.sh
+bash sh_hierasegCVC.sh
+bash sh_dw_hierasegCVC.sh
+bash sh_hierasegISIC.sh
+bash sh_dw_hierasegISIC.sh
 ```
 
 ### Data preparation:
