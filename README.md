@@ -5,7 +5,7 @@ by [Xiaoqing Guo](https://guo-xiaoqing.github.io/).
 ## Summary:
 
 ### Intoduction:
-This repository is for our MedIA paper ["Dynamic-weighting Hierarchical Segmentation Network for Medical Images"]()
+This repository is for our MedIA paper ["Dynamic-weighting Hierarchical Segmentation Network for Medical Images"](https://www.sciencedirect.com/science/article/abs/pii/S1361841521002413)
 
 ### Framework:
 ![](https://github.com/CityU-AIM-Group/DW-HieraSeg/blob/main/Figs/network.png)
